@@ -6,7 +6,7 @@ title: Scroll The Future
 
 # **0\.** Introduction {#introduction}
 
-**In 2025, serious arguments about the future of intelligence no longer come wrapped in leather-bound books, or even in the respectable grey of an OECD working paper. They come wrapped in soft off-white webpages, sparsely adorned, scroll-driven, and quietly insistent.**
+**In 2025, serious arguments about the future of intelligence no longer come wrapped in leather-bound books, or even in the respectable blue and grey of an OECD working paper. They come wrapped in soft off-white webpages, sparsely adorned, scroll-driven, and quietly insistent.**
 
 You have probably seen them: an austere title at the top of the page – [Situational Awareness](https://situational-awareness.ai), [The Compendium](https://www.thecompendium.ai), [A Narrow Path](https://www.narrowpath.co). A few muted buttons. A large-font quote, maybe from a nuclear physicist or a Cold War strategist. And then the scroll begins. The world narrows into sequential screens of cool fonts, muted greens and reds, log-scale graphs, and urgent but clinical prose. If you are patient (and you should be), you might be rewarded with a choose-your-own-adventure ending: Will humanity slow down in time? Will the race for superintelligence consume us?
 
@@ -427,5 +427,6 @@ The future will be scrolled through before it is lived. How we design that scrol
 - **Intended Use:** Encourage critical reading of scrollytelling artifacts
 - **Ethical Considerations:** May induce mild archival anxiety
 - **Version:** 1.0 (April 2025)
+- **Responsible Party.** Ben Johnson. [Follow me on X](https://x.com/ersatzben)
 
 </blockquote>
